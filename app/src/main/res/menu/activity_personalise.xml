@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/theme"
+            android:title="设置背景"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@mipmap/clock"
+            android:title="设置提醒时间"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@mipmap/about"
+            android:title="关于"/>
+    </group>
+</menu>

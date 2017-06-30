@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme1" parent="AppTheme.PopupOverlay">
+        <item name="textColor">@color/green_apple</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="btnColor">@color/colorBar</item>
+        <item name="barColor">@color/Bar</item>
+        <item name="btnLine">@color/btnLine</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="textSize">15sp</item>
+    </style>
+
+    <style name="Theme2" parent="AppTheme.PopupOverlay">
+        <item name="textColor">@color/sky_blue</item>
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="btnColor">@color/colorBar2</item>
+        <item name="btnLine">@color/btnLine2</item>
+        <item name="barColor">@color/Bar2</item>
+        <item name="textSize">35sp</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+</resources>

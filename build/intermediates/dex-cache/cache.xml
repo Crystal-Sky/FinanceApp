@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_e1ca67832dd39fc63b7e4dd8ef74ff0286913533\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6812959243ba80c58ff4f7369342fe80e6faadc6\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_e5dbc729d383810a2743bd08307bfc2d7ba679ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\MyDrivers\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_bdb3d1dc06ff9344c78fff087af79a11fcde9940\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\云雪\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_7e134218fddee8dff31ceec945a7d6ec558fc83b\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_a22c11f6c680df1d948e22b15db389bf06025a55\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_20ff64d753b93cee309d31ab70a1b07128d69af4\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_567919c141bb62394b98dd3b94a91e357bd59d79\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\libs\jsoup-1.6.1.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="b65281e9d00f255cdfab9e1880f7fc7a1fb1bffb">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.6.1_65a8c01a1e2e6434fab6e389769b50d840567ae2\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_ba2df8b2c883812a905260a310d975a30f0263cc\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_72e09a03c029c00c416d6fb100c4b9ec55ae8a0a\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1a6a8013ea178cd9c29b18885cb7df9f31e8d298\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f74fe1bdf8a3c50a69d3b7e9e38085628c6d8b35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\云雪\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_5de739d0b81a0d3c6487c792220f7fb7642b726d\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_94b8be290488fa3104e05c6b19f7c34c2ed23afb\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_0d1873fda453fd51b59c87da8e0706e1273c19d3\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7791f7359c9920ea3374b7af3cb9135ea5dbc122\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d4de25910a6ed5150a02f0d81b9fd04c44a4c119\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6e8bd0f45d74351adb0308295f433835b4950b77\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e8e6746459bf1cbd01f6920ce4c483b095e90753">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99b923cec28cefcae98eb76b32f48e2bacc96424\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="21f2fc5b587bdcf3860ef2ef9360fd59f6a545a9">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5850271e32c2e9d811fe6d4b7cd12955337241bd\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e717836b2ce12f5a8e481b1449a37f24c1a008b0\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\AndroidStudioProjects\course\Finance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_51c6b29aa22f3e3e80d85c6e43523813bb6aa509\classes.dex" />
+    </item>
+
+</items>

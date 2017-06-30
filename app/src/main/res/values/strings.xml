@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">旺财</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home_name">首页</string>
+    <string name="chart_name">图表分析</string>
+    <string name="manage_name">理财信息</string>
+    <string name="stock_name">股市行情</string>
+    <string name="newRecord_name">记一笔</string>
+    <string name="input_name">收入</string>
+    <string name="output_name">支出</string>
+    <string name="new_another">再记一笔</string>
+    <string name="save">保存</string>
+    <string name="stock_name_title">名称</string>
+    <string name="stock_now_title">最新</string>
+    <string name="stock_increase_percent_title">涨幅</string>
+    <string name="stock_increase_title">涨跌</string>
+    <string-array name="themes">
+        <item>Theme1</item>
+        <item>Theme2</item>
+    </string-array>
+</resources>

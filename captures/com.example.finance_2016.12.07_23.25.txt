@@ -1,0 +1,38 @@
+Applications Memory Usage (kB):
+Uptime: 51472191 Realtime: 124394041
+
+** MEMINFO in pid 14647 [com.example.finance] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap        0        0        0        0    20480    12121     8358
+  Dalvik Heap    30912    30736        0    14712    49170    47190     1980
+ Dalvik Other      370      232        0       36                           
+        Stack      436      436        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     2231      196      552     3016                           
+    .apk mmap      222        0       64        0                           
+    .ttf mmap        5        0        0        0                           
+    .dex mmap     3008        0     2888        0                           
+    .oat mmap     3912        0     1600        0                           
+    .art mmap     1673      820      184      132                           
+   Other mmap      178        4       16        0                           
+      Unknown     9057     8972        0     1792                           
+        TOTAL    52009    41396     5308    19688    69650    59311    10338
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        2           Activities:        0
+              Assets:        4        AssetManagers:        4
+       Local Binders:        9        Proxy Binders:       16
+       Parcel memory:        7         Parcel count:       30
+    Death Recipients:        0      OpenSSL Sockets:        0
+  Bitmaps(preloaded):      446      Bitmaps(client):        0
+ 
+ Dalvik
+         isLargeHeap:    false
+ 
+ SQL
+         MEMORY_USED:      114
+  PAGECACHE_OVERFLOW:       32          MALLOC_SIZE:       62
+ 
